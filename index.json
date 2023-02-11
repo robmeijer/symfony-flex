@@ -6,7 +6,9 @@
         ]
     },
     "recipe-conflicts": [],
-    "versions": [],
+    "versions": {
+        "splits": []
+    },
     "branch": "main",
     "is_contrib": false,
     "_links": {
