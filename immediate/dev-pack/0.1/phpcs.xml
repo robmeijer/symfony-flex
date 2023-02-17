@@ -11,6 +11,7 @@
     <!-- Directories to scan -->
     <file>src/</file>
     <file>tests/</file>
+    <file>bin/</file>
 
     <!-- Ignore the bootstrap file for tests -->
     <exclude-pattern>tests/bootstrap.php</exclude-pattern>

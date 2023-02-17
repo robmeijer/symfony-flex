@@ -1,1 +1,1 @@
-  * PHPCS config created and instructions modified and modified again
+  * PHPCS config created
