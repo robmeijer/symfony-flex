@@ -1,6 +1,6 @@
 {
     "copy-from-recipe": {
-        "phpcs.xml": "../phpcs.xml"
+        "phpcs.xml": "phpcs.xml"
     },
     "docker-compose": {
         "../docker-compose.yaml": {
